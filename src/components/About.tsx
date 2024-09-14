@@ -14,7 +14,7 @@ const About = () => {
       />
       <div className="p-4 flex flex-col gap-2 max-sm:text-center">
         <p className="text-2xl font-semibold">
-          Hello, I'm <span className="font-bold">Rajendra Patha.</span>
+          Hello, I&apos;m <span className="font-bold">Rajendra Patha.</span>
         </p>
         <p>
           <span className="font-semibold">Software Engineer</span> transforming
